@@ -5,4 +5,4 @@
 - 💬 Ask me about syntactic sugar
 - 📫 How to reach me: ronwalker@sent.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like creating riddles
+- ⚡ Fun fact: I code with my voice
